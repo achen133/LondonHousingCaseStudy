@@ -81,7 +81,7 @@ plt.show()
 #print(df_ratios.std())
 #print(df_ratios.mean())
 conclusion = '''
-   In conclusion, the overall average housing prices for all 32 boroughs in London increased by a factor of 4.7 
+   In conclusion, the overall average housing prices for all 32 boroughs in London increased by a mean factor of 4.7 
    with a standard deviation of 0.57. The three boroughs that saw the greatest increase in average housing prices 
    were Hackney, Waltham Forest, and Southwark by factors of 6.2, 5.8, and 5.5, respectively. On the other hand, 
    the three boroughs that saw the least increase in average housing prices were Hounslow, Richmond upon Thames, 
