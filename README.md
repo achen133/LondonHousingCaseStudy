@@ -1,2 +1,2 @@
 # LondonHousingCaseStudy
-springboard CH 4: Python Data Science Stack
+springboard from Chapter 4: Python Data Science Stack
